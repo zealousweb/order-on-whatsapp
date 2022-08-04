@@ -30,10 +30,10 @@ Open your terminal and run the following commands:
 cd /path/to/my-project
 
 # tell Composer to load the plugin
-composer require zealwhatsapporders/whats-app-orders
+composer require zealousweb/order-on-whatsapp
 
 # tell Craft to install the plugin
-./craft install/plugin whats-app-orders
+./craft install/plugin order-on-whatsapp
 ```
 
 ## Major features of the Plugin
