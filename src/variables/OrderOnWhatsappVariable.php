@@ -8,9 +8,9 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapp\variables;
+namespace zealousweb\orderonwhatsapp\variables;
 
-use zealouswebcraftcms\orderonwhatsapp\OrderOnWhatsapp;
+use zealousweb\orderonwhatsapp\OrderOnWhatsapp;
 
 use Craft;
 

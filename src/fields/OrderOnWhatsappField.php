@@ -8,10 +8,10 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapp\fields;
+namespace zealousweb\orderonwhatsapp\fields;
 
-use zealouswebcraftcms\orderonwhatsapp\OrderOnWhatsapp;
-use zealouswebcraftcms\orderonwhatsapp\assetbundles\orderonwhatsappfieldfield\OrderOnWhatsappFieldFieldAsset;
+use zealousweb\orderonwhatsapp\OrderOnWhatsapp;
+use zealousweb\orderonwhatsapp\assetbundles\orderonwhatsappfieldfield\OrderOnWhatsappFieldFieldAsset;
 
 use Craft;
 use craft\base\ElementInterface;

@@ -8,9 +8,9 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapp\controllers;
+namespace zealousweb\orderonwhatsapp\controllers;
 
-use zealouswebcraftcms\orderonwhatsapp\OrderOnWhatsapp;
+use zealousweb\orderonwhatsapp\OrderOnWhatsapp;
 
 use Craft;
 use craft\web\Controller;

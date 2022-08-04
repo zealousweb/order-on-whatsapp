@@ -8,12 +8,12 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapptests\unit;
+namespace zealousweb\orderonwhatsapptests\unit;
 
 use Codeception\Test\Unit;
 use UnitTester;
 use Craft;
-use zealouswebcraftcms\orderonwhatsapp\OrderOnWhatsapp;
+use zealousweb\orderonwhatsapp\OrderOnWhatsapp;
 
 /**
  * ExampleUnitTest

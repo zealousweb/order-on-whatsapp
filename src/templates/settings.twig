@@ -15,7 +15,7 @@
 
 {% import "_includes/forms" as forms %}
 {% set title = "Order on WhatsApp" %}
-{% do view.registerAssetBundle("zealouswebcraftcms\\orderonwhatsapp\\assetbundles\\orderonwhatsapp\\OrderOnWhatsappAsset") %}
+{% do view.registerAssetBundle("zealousweb\\orderonwhatsapp\\assetbundles\\orderonwhatsapp\\OrderOnWhatsappAsset") %}
 {% set plugin = craft.app.plugins.getPlugin('commerce', false) %}
 {% if plugin is not null and plugin.isInstalled %}
     {% set producttypes = [] %}

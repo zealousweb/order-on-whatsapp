@@ -1,6 +1,6 @@
 <?php
 
-namespace zealouswebcraftcms\orderonwhatsapptests\acceptance;
+namespace zealousweb\orderonwhatsapptests\acceptance;
 
 use Craft;
 use FunctionalTester;

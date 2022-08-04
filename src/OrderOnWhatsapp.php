@@ -8,12 +8,12 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapp;
+namespace zealousweb\orderonwhatsapp;
 
-use zealouswebcraftcms\orderonwhatsapp\services\OrderOnWhatsappService as OrderOnWhatsappServiceService;
-use zealouswebcraftcms\orderonwhatsapp\variables\OrderOnWhatsappVariable;
-use zealouswebcraftcms\orderonwhatsapp\models\Settings;
-use zealouswebcraftcms\orderonwhatsapp\fields\OrderOnWhatsappField as OrderOnWhatsappFieldField;
+use zealousweb\orderonwhatsapp\services\OrderOnWhatsappService as OrderOnWhatsappServiceService;
+use zealousweb\orderonwhatsapp\variables\OrderOnWhatsappVariable;
+use zealousweb\orderonwhatsapp\models\Settings;
+use zealousweb\orderonwhatsapp\fields\OrderOnWhatsappField as OrderOnWhatsappFieldField;
 
 use Craft;
 use craft\base\Plugin;

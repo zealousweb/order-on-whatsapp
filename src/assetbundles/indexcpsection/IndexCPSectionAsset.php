@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapp\assetbundles\indexcpsection;
+namespace zealousweb\orderonwhatsapp\assetbundles\indexcpsection;
 
 use Craft;
 use craft\web\AssetBundle;
@@ -43,7 +43,7 @@ class IndexCPSectionAsset extends AssetBundle
     public function init()
     {
         // define the path that your publishable resources live
-        $this->sourcePath = "@zealouswebcraftcms/orderonwhatsapp/assetbundles/indexcpsection/dist";
+        $this->sourcePath = "@zealousweb/orderonwhatsapp/assetbundles/indexcpsection/dist";
 
         // define the dependencies
         $this->depends = [

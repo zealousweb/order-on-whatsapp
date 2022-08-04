@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2021 zealousweb
  */
 
-namespace zealouswebcraftcms\orderonwhatsapp\assetbundles\orderonwhatsapp;
+namespace zealousweb\orderonwhatsapp\assetbundles\orderonwhatsapp;
 
 use Craft;
 use craft\web\AssetBundle;
@@ -43,7 +43,7 @@ class OrderOnWhatsappAsset extends AssetBundle
     public function init()
     {
         // define the path that your publishable resources live
-        $this->sourcePath = "@zealouswebcraftcms/orderonwhatsapp/assetbundles/orderonwhatsapp/dist";
+        $this->sourcePath = "@zealousweb/orderonwhatsapp/assetbundles/orderonwhatsapp/dist";
 
         // define the dependencies
         $this->depends = [
